@@ -2,6 +2,11 @@
   "name": "com.verelll.extentions.guiscenesswitcher",
   "displayName": "Gui Scenes Switcher",
   "version": "1.0.0",
+  "author": {
+    "name": "verelll",
+    "email": "",
+    "url": ""
+  },
   "description": "A tool that allows you to quickly move between scenes in the editor.",
   "dependencies": {
     "com.verelll.extentions.guitoolbar": "1.0.0"
